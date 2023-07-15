@@ -1,0 +1,48 @@
+.nav {
+    --bs-nav-pills-link-active-bg:black;
+    --bs-nav-link-color:black;
+   
+}
+.navba{
+    background: linear-gradient(300deg,#78C1F3, #9BE8D8, #E2F6CA ,#F8FDCF);
+    background-size: 180% 180%;
+    animation: gradient-animation 3s ease infinite; 
+    position: relative;
+}
+
+.title{
+    
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+}
+body
+{
+    
+}
+.pic{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    border:3px solid black
+}
+.fot{
+    background: linear-gradient(300deg,#78C1F3, #9BE8D8, #E2F6CA ,#F8FDCF);
+    background-size: 180% 180%;
+    animation: gradient-animation 6s ease infinite; 
+
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+ 
+  .iam{
+    display: flex;
+    justify-content: center;
+    width:"500px"
+  }
