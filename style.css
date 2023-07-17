@@ -7,7 +7,7 @@
     background: linear-gradient(300deg,#78C1F3, #9BE8D8, #E2F6CA ,#F8FDCF);
     background-size: 180% 180%;
     animation: gradient-animation 3s ease infinite; 
-    position: relative;
+    
 }
 
 .title{
